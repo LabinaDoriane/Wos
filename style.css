@@ -1,0 +1,165 @@
+body{ background-image: url(../Wos/BGMontagnes.png);
+    background-repeat: no-repeat;
+width: 1689px;
+height: 2552px;
+
+    font-family: "Verdana";
+}
+.fond {position: absolute;
+}
+.cadre_menu {
+    
+    position: absolute;
+    top:62px;
+    left:260px;
+}
+.cadre_profil {
+    position: absolute;
+    top:40px;
+    left:1100px
+}
+.menuTop {
+    position:absolute;
+    display:flex;
+    justify-content: flex-start;
+    list-style: none;
+    top:60px;
+    left:232px;
+}
+.nomProfil {
+    position: absolute;
+    font-size: 16px;
+  
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  top:33px;
+    left:1230px;
+}
+.nehp { position: absolute;
+        list-style: none;
+        font-size: 12px;
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        top:80px;
+        left:1080px
+}
+.chiffre_nehp{
+    position: absolute;
+    list-style: none;
+    font-size: 12px;
+  text-align: right;
+  color: rgb(255, 255, 255);
+  top:80px;
+  left:1180px
+}
+
+.fond_ressource {
+    position: absolute;
+    top: 175px;
+    left: 275px;
+}
+
+.nour { display:flex;
+        justify-content: flex-start;
+        list-style: none;
+        position: absolute;
+        top: 190px;
+        left: 430px;}
+.chiffre1 { margin-top: 8px;
+            margin-left: 15px;
+            font-size: 14px;
+            font-weight: bold; }
+
+.metal { display:flex;
+         justify-content: flex-start;
+         list-style: none;
+         position: absolute;
+         top: 190px;
+         left: 630px;}   
+.chiffre2 { margin-top: 8px;
+            margin-left: 15px;
+            font-size: 14px;
+            font-weight: bold; }
+
+.bois { display:flex;
+        justify-content: flex-start;
+        list-style: none;
+        position: absolute;
+        top: 190px;
+        left: 830px;}  
+.chiffre3 { margin-top: 8px;
+            margin-left: 15px;
+            font-size: 14px;
+            font-weight: bold; }   
+            
+.roche { display:flex;
+         justify-content: flex-start;
+         list-style: none;
+         position: absolute;
+         top: 190px;
+         left: 1030px;}  
+.chiffre4 { margin-top: 8px;
+            margin-left: 15px;
+            font-size: 14px;
+            font-weight: bold; }  
+
+.fond_info { position: absolute;
+    top: 250px;
+    left: 595px;}    
+.texte_info { position: absolute;
+              font-size: 16px;
+              font-weight: bold;
+              top:250px;
+              left: 800px ;}    
+
+.fenetre1 { position: absolute;
+    top: 310px;
+    left: 250px; }  
+.vueglobale {position: absolute;
+            font-size: 16px;
+            font-weight: bold;
+            top:310px;
+            left:545px; }
+.chantier { position: absolute;
+            font-size: 16px;
+            font-weight: bold;
+            top:990px;
+            left:270px; }
+
+/*.fenetre2 {
+    position: absolute;
+    top: 310px;
+    left: 980px; } */
+.fenetre3 {
+    position: absolute;
+    top: 650px;
+    left: 980px; }
+.text_clan {position: absolute;
+       font-size: 16px;
+       font-weight: bold;
+       top:650px;
+       left:1190px; }  
+.fenetre4 {
+    position: absolute;
+    top: 860px;
+    left: 980px; } 
+    .text_production { position: absolute;
+        font-size: 16px;
+        font-weight: bold;
+        top:860px;
+        left:1150px; }
+
+.fenetre5 { position: absolute;
+    top: 1230px;
+    left: 250px; }   
+
+.fenetre6 { position: absolute;
+    top: 1230px;
+    left: 980px; }  
+.fenetre7 { position: absolute;
+    top: 1480px;
+    left: 250px; }      
+              
+
+
+
